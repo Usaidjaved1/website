@@ -1,0 +1,23 @@
+.lists{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+
+.maincard{
+    max-width: 250px;
+    border: 1px solid black;
+}
+
+
+
+
+
+.lists li{
+    list-style: none;
+    color: white;
+    
+}
+
